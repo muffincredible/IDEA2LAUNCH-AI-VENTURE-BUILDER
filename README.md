@@ -32,7 +32,7 @@
 - [🏗️ System Architecture](#️-system-architecture)
 - [📊 Data Flow](#-data-flow)
 - [🗓️ Roadmap](#️-roadmap)
-- [🎯 MVP Demo Scenario](#️-mvp-demo-scenario)
+- [🎯 MVP Demo Scenario](#-mvp-demo-scenario)
 ---
 
 ## 👁️ Overview
